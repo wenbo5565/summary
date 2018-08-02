@@ -2,7 +2,7 @@
 
 by Wenbo Ma
 
-Welcome to my github. This is a summary of my projects. You can find detailed information about each project at their respective repository.
+Welcome to my github page. This works as a "Table of Contents" of my projects. You can find detailed information about each project at their respective repository.
 
 #### Machine Learning Applied Projects
 
