@@ -6,7 +6,7 @@ Welcome to my github page. This works as a "Table of Contents" of my projects. Y
 
 #### Machine Learning Applied Projects
 
-This section includes my projects applying machine learning models into various applications such as finance, computer vision and business analytics.
+This section includes my projects on machine learning applications in finance, computer vision and etc.
 
   * Finance - [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
   * Computer Vision - Traffic Lane Detection
