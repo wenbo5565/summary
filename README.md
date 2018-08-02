@@ -8,9 +8,9 @@ by Wenbo Ma
 
 ###### This section includes my projects applying machine learning models into various applications such as finance, computer vision and business analytics.
 
-  1. [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
-  2. Computer Vision - Traffic Lane Detection
-  3. Computer Vision - Vehicle Tracking
+  *. [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
+  *. Computer Vision - Traffic Lane Detection
+  *. Computer Vision - Vehicle Tracking
  
 ### Optimization and Machine Learning (Theory)
 
