@@ -14,6 +14,6 @@ This section includes my projects applying machine learning models into various 
  
 #### Optimization and Machine Learning (Theory)
 
-This section includes my projects on statistics, optimization and machine learning. These projects emphasize on theory and method of machine learning, statistics and optimization
+This section includes my projects on statistics, optimization and machine learning. These projects are on theory and method of machine learning, statistics and optimization
 
   * Distributionally Robust Optimization
