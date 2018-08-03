@@ -8,8 +8,11 @@ Welcome to my github page. This page works as a "Table of Contents" of my projec
 
 This section includes my projects on machine learning applications in finance, computer vision and etc.
 
-  * Finance - [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
-  * Computer Vision - [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
+Finance - 
+  * [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
+
+Computer Vision - 
+  * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
   * Computer Vision - Vehicle Tracking
  
 #### Optimization and Machine Learning (Theory)
