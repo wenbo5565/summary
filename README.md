@@ -4,7 +4,7 @@ by Wenbo Ma
 
 Welcome to my github page. This page works as a "Table of Contents" of my projects' repository. You can find detailed information about each project at their respective repository.
 
-#### Machine Learning Application Projects
+#### 1. Machine Learning Application Projects
 
 This section includes my projects on machine learning applications in finance, computer vision and etc.
 
@@ -15,7 +15,7 @@ Computer Vision:
   * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
   * Vehicle Tracking
  
-#### Optimization and Machine Learning (Theory)
+#### 2. Optimization and Machine Learning (Theory)
 
 This section includes my projects on statistics, optimization and machine learning. These projects are on theory and method of machine learning, statistics and optimization
 
