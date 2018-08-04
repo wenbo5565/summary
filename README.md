@@ -13,7 +13,7 @@ Finance:
 
 Computer Vision: 
   * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
-  * Computer Vision - Vehicle Tracking
+  * Vehicle Tracking
  
 #### Optimization and Machine Learning (Theory)
 
