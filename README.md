@@ -12,9 +12,9 @@ Finance:
   * [Loan application prediction with gradient boosted trees model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
 
 Computer Vision/ Image Analysis: 
-  * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
+  * [Traffic lane detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
   * Vehicle Tracking
-  * [Behavioral Cloning (Deep Learning)-]() Build a convoluationl neural network (CNN) to imitate a human driver's behavior.
+  * [Behavioral cloning (deep learning)-]() Build a convoluationl neural network (CNN) to imitate a human driver's behavior.
  
 #### 2. Optimization and Machine Learning (Theory)
 
