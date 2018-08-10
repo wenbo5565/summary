@@ -14,7 +14,7 @@ Finance:
 Computer Vision: 
   * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
   * Vehicle Tracking
-  * Behavior Cloning
+  * Behav Cloning
  
 #### 2. Optimization and Machine Learning (Theory)
 
