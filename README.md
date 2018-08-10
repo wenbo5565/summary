@@ -11,9 +11,8 @@ This section includes my projects on machine learning applications in finance, c
 Finance:
   * [Loan Application Prediction with Gradient Boosted Trees Model (GBM)](https://github.com/wenbo5565/AppliedProject_GrantingLoan)
 
-Computer Vision: 
+Computer Vision/ Image Analysis: 
   * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
-   * Build
   * Vehicle Tracking
   * [Behavioral Cloning -]() Build a convoluationl neural network (CNN) to imitate a human driver's behavior.
  
