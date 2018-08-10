@@ -13,7 +13,7 @@ Finance:
 
 Computer Vision/ Image Analysis: 
   * [Traffic lane detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding)
-  * Vehicle Tracking
+  * Vehicle tracking
   * [Behavioral cloning (deep learning)-]() Build a convoluationl neural network (CNN) to imitate a human driver's behavior.
  
 #### 2. Optimization and Machine Learning (Theory)
