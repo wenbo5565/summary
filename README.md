@@ -18,7 +18,7 @@ Computer Vision/ Image Analysis:
   * [Traffic Lane Detection](https://github.com/wenbo5565/AppliedProject_AdvancedLaneFinding) - Detect driving lanes via a front-facing camera on a vehicle.
   * [Vehicle Tracking](https://github.com/wenbo5565/AppliedProject_CarDetection) - Track surrounding vehicles via a front-facing camera
   
-#### 2. Sample Code for Demo Purpose only
+#### 2. Sample Code for Demo Purpose Only
  * Python
  * R
  * MATLAB
