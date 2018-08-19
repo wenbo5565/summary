@@ -20,7 +20,7 @@ Computer Vision/ Image Analysis:
   
 #### 2. Sample Code for Demo Purpose Only
  * Python
-  - [Exploratory analysis and xgboost](https://github.com/wenbo5565/AppliedProject_GrantingLoan/blob/master/GrantingLoan%20core.py)
+   - [Exploratory analysis and xgboost](https://github.com/wenbo5565/AppliedProject_GrantingLoan/blob/master/GrantingLoan%20core.py)
  * R
  * VBA (not available as it is only related to my previous professional work at Deloitte)
  * MATLAB
