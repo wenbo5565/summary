@@ -21,6 +21,7 @@ Computer Vision/ Image Analysis:
 #### 2. Sample Code for Demo Purpose Only
  * Python
  * R
+ * VBA (not available as it is only related to my previous professional work at Deloitte)
  * MATLAB
  * SQL
 
