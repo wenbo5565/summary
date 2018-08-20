@@ -30,7 +30,9 @@ Computer Vision/ Image Analysis:
    - [Semidefinite Programming (SDP) for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SDP_Sortino_CVX.m)
  * SQL
    - [SQL1 - outer-join in MySQL](https://github.com/wenbo5565/misc/blob/master/mysql/code/question2.sql)
-
+   - [SQL2 - partition_by](https://github.com/wenbo5565/misc/blob/master/mysql/code/question3.sql)
+   - [SQL3 - LAG](https://github.com/wenbo5565/misc/blob/master/mysql/code/question1.sql)
+   
 #### 3. Optimization and Machine Learning (Theory)
 
 This section includes my projects on statistics, optimization and machine learning. These projects are on theory and method of machine learning, statistics and optimization
