@@ -27,6 +27,7 @@ Computer Vision/ Image Analysis:
  * MATLAB
    - [Second order cone programming (SOCP) for Sortino ratio without CVX ](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_noCVX.m)
    - [SOCP for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_CVX.m)
+   - [Semidefinite Programming (SDP) for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SDP_Sortino_CVX.m)
  * SQL
    - [SQL1 - outer-join in MySQL](https://github.com/wenbo5565/misc/blob/master/mysql/code/question2.sql)
 
