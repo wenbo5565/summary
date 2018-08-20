@@ -25,7 +25,7 @@ Computer Vision/ Image Analysis:
  * R (Most of R codes date back to my time at Rutgers University as a graduate student for 1.5 years) 
    - [Time series analysis - ARMA and GARCH model](https://github.com/wenbo5565/misc/blob/master/R/arma_garch.r)
  * VBA (not available since it is related to my professional work at Deloitte)
- * MATLAB
+ * MATLAB - Optimization
    - [Second order cone programming (SOCP) for Sortino ratio without CVX ](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_noCVX.m)
    - [SOCP for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_CVX.m)
    - [Semidefinite Programming (SDP) for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SDP_Sortino_CVX.m)
