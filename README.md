@@ -22,7 +22,7 @@ Computer Vision/ Image Analysis:
  * Python
    - [Exploratory analysis and xgboost](https://github.com/wenbo5565/AppliedProject_GrantingLoan/blob/master/GrantingLoan%20core.py)
    - [Convolutional neural network using Keras](https://github.com/wenbo5565/appliedproject_behavioralcloning/blob/master/model.py)
- * R (Most of R codes date back to my time at Rutgers University as a graduate student for 2 years) 
+ * R (Most of R codes date back to my time at Rutgers University as a graduate student for 1.5 years) 
  * VBA (not available as it is only related to my previous professional work at Deloitte)
  * MATLAB
  * SQL
