@@ -4,7 +4,7 @@ by Wenbo Ma
 
 Welcome to my github page. This page works as a "Table of Contents" for my projects' repository. You can find detailed information about each project in their respective repository by clicking the link.
 
-Also I list some of my sample codes here demonstrating my coding style for 2018 job-seeking purpose only.
+Also I list some of my sample codes here demonstrating my coding style.
 
 #### 1. Machine Learning Application Projects
 
