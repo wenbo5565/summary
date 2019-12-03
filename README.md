@@ -26,7 +26,7 @@ Computer Vision/ Image Analysis:
    - [Time series analysis - ARMA and GARCH model](https://github.com/wenbo5565/misc/blob/master/R/arma_garch.r)
    - [Regression analysis - smooth spline](https://github.com/wenbo5565/misc/blob/master/R/regression_spline.r)
    - [Data mining - linear discriminate analysis (LDA)](https://github.com/wenbo5565/misc/blob/master/R/lda.R)
- * VBA (not available since it is only related to my professional work at Deloitte)
+ * VBA (not available since it is only related to my previous professional work at Deloitte)
  * MATLAB - Optimization
    - [Second order cone programming (SOCP) for Sortino ratio without CVX ](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_noCVX.m)
    - [SOCP for Sortino ratio with CVX](https://github.com/wenbo5565/misc/blob/master/MATLAB/SOCP_Sortino_CVX.m)
